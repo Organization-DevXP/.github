@@ -1,6 +1,6 @@
-# Bienvenido a **LaTerminaldeEdudev** 🚀
+# Bienvenido a **DevXp** 🚀
 
-**LaTerminaldeEdudev** es una organización colaborativa diseñada para desarrollar proyectos innovadores y ofrecer a desarrolladores de todas las áreas una plataforma para trabajar en equipo, aprender y crecer profesionalmente. 🌟
+**DevXp** es una organización colaborativa diseñada para desarrollar proyectos innovadores y ofrecer a desarrolladores de todas las áreas una plataforma para trabajar en equipo, aprender y crecer profesionalmente. 🌟
 
 ## Nuestra Misión 🎯
 Crear un entorno donde programadores, diseñadores y testers puedan trabajar juntos en proyectos desafiantes, mejorar sus habilidades y construir un portafolio que destaque en la industria tecnológica.
@@ -9,7 +9,7 @@ Crear un entorno donde programadores, diseñadores y testers puedan trabajar jun
 Somos una comunidad diversa de apasionados por la tecnología, comprometidos con la creación de soluciones impactantes mientras aprendemos y compartimos conocimientos.
 
 ## Roles en la Organización 🔧
-En **LaTerminaldeEdudev**, cada miembro juega un papel crucial. Los roles incluyen:
+En **DevXp**, cada miembro juega un papel crucial. Los roles incluyen:
 - **Frontend Developers**: Diseñan y desarrollan interfaces interactivas y amigables para el usuario.
 - **Backend Developers**: Construyen la lógica del servidor y gestionan la conexión con bases de datos.
 - **UX/UI Designers**: Mejoran la experiencia y la estética de las aplicaciones.
@@ -41,7 +41,7 @@ Mantenemos una comunicación activa mediante:
 - Reuniones virtuales periódicas
 
 ## Únete a Nosotros 🚀
-¿Estás listo para ser parte de algo grande? Haz clic en el botón de **Join** y comienza tu viaje con **LaTerminaldeEdudev**. ¡Tu talento puede marcar la diferencia!
+¿Estás listo para ser parte de algo grande? Haz clic en el botón de **Join** y comienza tu viaje con **DevXp**. ¡Tu talento puede marcar la diferencia!
 
 ---
 
@@ -50,4 +50,4 @@ Para preguntas o sugerencias, por favor contacta a:
 - **Administrador**: Eduardo 
 - **Email**: [edudev@example.com](mailto:edudev@example.com)
 
-¡Gracias por ser parte de **LaTerminaldeEdudev**! 💻✨
+¡Gracias por ser parte de **DevXp**! 💻✨
