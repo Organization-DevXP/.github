@@ -41,16 +41,4 @@ Cuando estés listo para contribuir, haz un **pull request** desde tu rama hacia
 
 ---
 
-### 📜 Código de Conducta
-
-Te pedimos que sigas nuestro [Código de Conducta](#) mientras interactúas con otros colaboradores. Mantener un ambiente respetuoso y profesional es esencial para todos.
-
----
-
-### 🔒 Licencia
-
-Al contribuir, otorgas a la organización una licencia de uso de tus contribuciones bajo la licencia que se usa en el proyecto (generalmente [MIT License](#)).
-
----
-
 ¡Gracias por ayudar a mejorar nuestros proyectos! 🌟
