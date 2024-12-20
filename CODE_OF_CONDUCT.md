@@ -42,8 +42,8 @@ Si un miembro de la comunidad viola este código de conducta, el equipo de admin
 
 Si eres testigo o víctima de un comportamiento inapropiado, por favor, repórtalo a través de los siguientes medios:
 
-- **Correo electrónico**: [tucorreo@ejemplo.com](mailto:tucorreo@ejemplo.com)
-- **Formulario de reporte**: [enlace al formulario](#)
+- **Correo electrónico**: 
+- **Formulario de reporte**: 
 
 Todas las quejas serán tratadas de forma confidencial y con el mayor respeto.
 
