@@ -59,12 +59,8 @@ Cada equipo trabaja de manera autónoma en sus áreas, pero todos colaboramos en
 En **DevXp**, mantenemos una comunicación constante y abierta a través de las siguientes plataformas:
 
 - **GitHub Discussions**: Para debatir ideas, resolver dudas y coordinar tareas.
-- **Slack**: Integración en desarrollo para mejorar la comunicación en tiempo real.
+- **Slack**: Integración en desarrollo para mejorar la comunicación en tiempo real. ( en Desarrollo )
 - **Reuniones Virtuales**: Nos reunimos periódicamente para revisar el progreso y discutir nuevas ideas.
-
-## Únete a Nosotros 🚀
-
-¿Estás listo para hacer crecer tus habilidades y trabajar en proyectos innovadores? ¡Haz clic en el botón de **Join** y empieza tu aventura con **DevXp**! Tu talento puede marcar la diferencia en nuestro equipo.
 
 ---
 
