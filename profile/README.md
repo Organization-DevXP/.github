@@ -2,6 +2,12 @@
 
 **DevXp** es una organización colaborativa dedicada al desarrollo de proyectos innovadores, donde los desarrolladores de todas las áreas pueden trabajar en equipo, aprender y crecer profesionalmente. 🌟
 
+## ¿Te interesa participar?
+¡Nos encantaría contar contigo en nuestra organización! Para unirte, simplemente completa el siguiente formulario:
+- 📋[FORMULARIO DE INSCRIPCIÓN](https://forms.gle/PU28SWrjaCLEks2b8)
+
+Una vez enviado, revisaremos tu solicitud y te enviaremos la invitación para que puedas empezar a colaborar con nosotros. 🙌
+
 ## Nuestra Misión 🎯
 
 En **DevXp**, nos apasiona construir un entorno donde programadores, diseñadores, testers y demás perfiles puedan colaborar en proyectos desafiantes. Nuestro objetivo es que cada miembro de la organización mejore sus habilidades, adquiera experiencia práctica y construya un portafolio que se destaque en la industria tecnológica.
