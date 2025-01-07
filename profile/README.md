@@ -8,6 +8,20 @@
 
 Una vez enviado, revisaremos tu solicitud y te enviaremos la invitación para que puedas empezar a colaborar con nosotros. 🙌
 
+### Redes Sociales
+
+<p align="center">
+   <a href="https://www.linkedin.com/company/organization-devxp">
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
+   </a>
+  <a href="https://discord.gg/dRyhdsa5U6">
+    <img src="https://skillicons.dev/icons?i=discord&perline=14" />
+   </a>
+  <a href="https://join.slack.com/t/organization-devxp/shared_invite/zt-2vynrh0dz-5BuiqJKFHpdQb0uqk13Hog">
+    <img height="50" src="https://cdn-icons-png.flaticon.com/512/2111/2111615.png" />
+   </a>
+</p>
+
 ## Nuestra Misión 🎯
 
 En **DevXp**, nos apasiona construir un entorno donde programadores, diseñadores, testers y demás perfiles puedan colaborar en proyectos desafiantes. Nuestro objetivo es que cada miembro de la organización mejore sus habilidades, adquiera experiencia práctica y construya un portafolio que se destaque en la industria tecnológica.
