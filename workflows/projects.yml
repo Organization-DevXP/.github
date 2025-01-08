@@ -1,0 +1,96 @@
+# Archivo .github/projects.yml
+name: "Gestión de Proyectos - DevXP"
+description: "Tablero preconfigurado para la gestión de proyectos colaborativos con vistas de Sprints y Kanban."
+public: true # Cambia a false si quieres que el proyecto sea privado.
+
+fields:
+  - name: "Sprint" # Campo personalizado para asignar sprints.
+    type: single_select
+    options:
+      - "Sprint 1"
+      - "Sprint 2"
+      - "Sprint 3"
+      - "Sprint Backlog"
+
+  - name: "Estado" # Campo para el estado de la tarea.
+    type: single_select
+    options:
+      - "To Do"
+      - "In Progress"
+      - "Review"
+      - "Done"
+
+  - name: "Prioridad" # Campo para definir prioridad.
+    type: single_select
+    options:
+      - "Alta"
+      - "Media"
+      - "Baja"
+
+views:
+  - name: "Kanban"
+    type: board
+    layout: vertical
+    group_by: "Estado" # Las columnas se agrupan por el campo Estado.
+    filter_by:
+      - field: "Sprint"
+        value: "Sprint Backlog" # Mostrará tareas que no están asignadas a un sprint específico.
+
+  - name: "Sprints"
+    type: table
+    layout: list
+    fields:
+      - "Sprint"
+      - "Estado"
+      - "Prioridad"
+    filter_by:
+      - field: "Sprint"
+        operator: is_not
+        value: "Sprint Backlog" # Excluye tareas del backlog.
+    sort_by:
+      - field: "Sprint"
+        order: ascending
+
+  - name: "Sprint 1 Board"
+    type: board
+    layout: vertical
+    group_by: "Estado"
+    filter_by:
+      - field: "Sprint"
+        value: "Sprint 1" # Solo muestra tareas de Sprint 1.
+
+automations:
+  - name: "Mover a In Progress cuando se asigna un Sprint"
+    condition:
+      - field: "Sprint"
+        operator: is_not
+        value: "Sprint Backlog"
+    action:
+      - field: "Estado"
+        value: "To Do"
+
+  - name: "Mover a Done cuando se cierra un Issue"
+    condition:
+      - event: issue_closed
+    action:
+      - field: "Estado"
+        value: "Done"
+
+labels:
+  - name: "Sprint Backlog"
+    color: "#f9a825"
+  - name: "Sprint 1"
+    color: "#43a047"
+  - name: "Sprint 2"
+    color: "#1e88e5"
+  - name: "Sprint 3"
+    color: "#e53935"
+
+# Opcional: Tablero de QA para tareas en revisión
+  - name: "QA"
+    type: board
+    layout: vertical
+    group_by: "Estado"
+    filter_by:
+      - field: "Estado"
+        value: "Review"
