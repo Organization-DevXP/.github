@@ -14,7 +14,7 @@ Una vez enviado, revisaremos tu solicitud y te enviaremos la invitación para qu
    <a href="https://www.linkedin.com/company/organization-devxp">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
    </a>
-  <a href="https://discord.gg/dRyhdsa5U6">
+  <a href="https://discord.gg/j3hnJjR8Yd">
     <img src="https://skillicons.dev/icons?i=discord&perline=14" />
    </a>
   <a href="https://join.slack.com/t/organization-devxp/shared_invite/zt-2vynrh0dz-5BuiqJKFHpdQb0uqk13Hog">
