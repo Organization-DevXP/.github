@@ -25,6 +25,9 @@ Una vez enviado, revisaremos tu solicitud y te enviaremos la invitación para qu
    <a href="https://www.youtube.com/@Organization-DevXP">
     <img height="60" src="https://cdn.icon-icons.com/icons2/195/PNG/256/YouTube_23392.png" />
    </a>
+   <a href="https://chat.whatsapp.com/FfX0fXV4xHzCvFoVFn7ssa">
+    <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/239px-WhatsApp_icon.png" />
+   </a>
 </p>
 
 ## Nuestra Misión 🎯
